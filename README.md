@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Grace1872
+- 👀 I’m interested in tech and business 
+- 🌱 I’m currently doing Ph.D on Digital Governance and learning data science.
+- 💞️ I’m looking to collaborate on establishing a consulting company about China's digital governance
+- 📫 How to reach me Twitter @graceyang18722
